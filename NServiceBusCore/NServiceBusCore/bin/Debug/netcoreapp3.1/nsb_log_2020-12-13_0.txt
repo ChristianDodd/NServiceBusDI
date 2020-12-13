@@ -1,0 +1,8 @@
+﻿2020-12-13 16:05:59.909 INFO  Logging to 'C:\Users\chris\source\repos\NServiceBusCore\NServiceBusCore\bin\Debug\netcoreapp3.1\' with level Info
+2020-12-13 16:06:00.076 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-13'.
+2020-12-13 16:06:12.463 INFO  Logging to 'C:\Users\chris\source\repos\NServiceBusCore\NServiceBusCore\bin\Debug\netcoreapp3.1\' with level Info
+2020-12-13 16:06:12.625 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-13'.
+2020-12-13 16:06:45.338 INFO  Logging to 'C:\Users\chris\source\repos\NServiceBusCore\NServiceBusCore\bin\Debug\netcoreapp3.1\' with level Info
+2020-12-13 16:06:45.501 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-13'.
+2020-12-13 16:08:20.369 INFO  Logging to 'C:\Users\chris\source\repos\NServiceBusCore\NServiceBusCore\bin\Debug\netcoreapp3.1\' with level Info
+2020-12-13 16:08:20.505 INFO  No valid license could be found. Falling back to trial license with start date '2020-12-13'.

@@ -1,0 +1,14 @@
+{
+  "NServiceBus.MessageId": "1fb6d4aa-7e16-4c85-91b7-ac90015aafd9",
+  "NServiceBus.MessageIntent": "Send",
+  "NServiceBus.ConversationId": "cb8ce156-3343-45e1-bc20-ac90015aafdd",
+  "NServiceBus.CorrelationId": "1fb6d4aa-7e16-4c85-91b7-ac90015aafd9",
+  "NServiceBus.ReplyToAddress": "Test",
+  "NServiceBus.OriginatingMachine": "DESKTOP-9PGLNM6",
+  "NServiceBus.OriginatingEndpoint": "Test",
+  "$.diagnostics.originating.hostid": "38044fb5295632a834244a195e3c2d5d",
+  "NServiceBus.ContentType": "text\/xml",
+  "NServiceBus.EnclosedMessageTypes": "ConsoleApp1.Messages.TestMessage, ConsoleApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "NServiceBus.Version": "7.4.4",
+  "NServiceBus.TimeSent": "2020-12-13 21:02:14:955827 Z"
+}
